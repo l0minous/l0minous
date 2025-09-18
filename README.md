@@ -6,6 +6,6 @@
 
 💻 Currently studying **Computer Science** at the University of Toronto
 
-🚀 Previosuly interned at Amazon Web Services (AWS) & Transform Venture Capital (TVC)
+🚀 Previously interned at Amazon Web Services (AWS) & Transform Venture Capital (TVC)
 
 📫 Reach out to me via **email** at [diler.zaza@mail.utoronto.ca](mailto:diler.zaza@mail.utoronto.ca)
