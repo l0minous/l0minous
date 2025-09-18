@@ -4,8 +4,8 @@
 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">   Hi, I'm Diler
 
-💻 Currently studying **Computer Science** at the University of Toronto.
+💻 Currently studying **Computer Science** at the University of Toronto
 
 🚀 Previosuly interned at Amazon Web Services (AWS) & Transform Venture Capital (TVC)
 
-📫 Reach out to me via **email** at [diler.zaza@mail.utoronto.ca](mailto:diler.zaza@mail.utoronto.ca).
+📫 Reach out to me via **email** at [diler.zaza@mail.utoronto.ca](mailto:diler.zaza@mail.utoronto.ca)
