@@ -6,6 +6,6 @@
 
 💻 Studied **Computer Science** at the University of Toronto
 
-🚀 Previously interned at Ada CX, Semtri AI, Amazon Web Services (AWS) ,& Transform Venture Capital (TVC)
+🚀 Previously interned at Ada CX, Sentri AI, Amazon Web Services (AWS) ,& Transform Venture Capital (TVC)
 
 📫 Reach out to me via **email** at [diler.zaza@mail.utoronto.ca](mailto:diler.zaza@mail.utoronto.ca)
